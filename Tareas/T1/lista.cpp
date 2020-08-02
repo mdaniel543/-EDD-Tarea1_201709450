@@ -112,7 +112,7 @@ void lista::imprimir()
 		}
 	}
 	else {
-		cout << "\n  LISTA VACIA";
+		cout << "\n  LISTA VACIA \n\n";
 	}
 
 }

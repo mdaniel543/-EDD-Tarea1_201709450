@@ -24,4 +24,4 @@ private:
 	nodo *siguiente;
 };
 
-#endif // NODO_H
+#endif
